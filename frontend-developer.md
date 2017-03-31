@@ -16,8 +16,8 @@ Technical Spec
 ### Front-end
 
 The front-end should ideally be a single page app that would have two views 
-    * Form for composing the email 
-    * Inbox for listing emails
+   * Form for composing the email 
+   * Inbox for listing emails
 
 You may take this opportunity to demonstrate your CSS3 or HTML5 knowledge.
 
