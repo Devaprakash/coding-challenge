@@ -6,6 +6,7 @@ For more details, refer https://goo.gl/d8YyzD
 
 This coding challenge is a **super shortcut** to working directly with the team.
 
+* [Full-Stack Developer](full-stack-developer.md)
 * [Backend Developer](backend-developer.md)
 * [Frontend Developer](frontend-developer.md)
-* [Full-Stack Developer](full-stack-developer.md)
+* [Junior Developer](junior-developer.md)
